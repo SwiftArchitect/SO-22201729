@@ -1,9 +1,13 @@
 # Parallax effect with UIScrollView subviews
 
+![preview](https://i.stack.imgur.com/vmZyT.gif)
+
+[↻ replay animation](https://i.stack.imgur.com/vmZyT.gif)
+
 ---
 
 ### Stack Overflow Question 22201729
-Xcode project & source code related to [Scaling Factor being the key element](http://stackoverflow.com/a/33723894/218152) anwser.
+Xcode project & source code related to [Scaling Factor being the key element](https://stackoverflow.com/questions/22201729/parallax-effect-with-uiscrollview-subviews/33723894#33723894) answer.
 
 ---
 
@@ -13,6 +17,6 @@ Xcode project & source code related to [Scaling Factor being the key element](ht
 
 **References:**
 
-- SO-22201729 on [Stack Overflow](http://stackoverflow.com/questions/22201729/parallax-effect-with-uiscrollview-subviews)
+- Question [22201729](https://stackoverflow.com/questions/22201729) on Stack Overflow
 - This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes/)
 
